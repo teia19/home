@@ -6,10 +6,10 @@ fiction:
   name: fiction
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
+estreia:
+  name: estreia
+  description: False
+  cover: False
 eventos-anteriores:
   name: eventos-anteriores
   description: False
