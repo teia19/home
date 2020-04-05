@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: About
+title: Mais sobre nós
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
