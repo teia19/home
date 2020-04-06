@@ -10,7 +10,7 @@ baseurl: /jasper2/
 
 # Website info
 title: TEIA19
-description:  _____     
+description:  ______     
 cover: assets/images/blog-cover.jpg
 logo: assets/images/teia19.png
 logo_dark: assets/images/favicon.png
@@ -26,6 +26,7 @@ subscribers: False # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 #twitter: tryghost # replace by your username
 facebook: Teia19 # replace by your username
+instagram: _teia19_
 
 # Disqus
 disqus: False
