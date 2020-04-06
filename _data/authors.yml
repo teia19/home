@@ -14,7 +14,7 @@ primaterca:
   url_full: False
   url: False
   bio: Prima Terça.
-  picture: assets/images/ghost.png
+  picture: False
   facebook: False
   instagram: False
   cover: False
