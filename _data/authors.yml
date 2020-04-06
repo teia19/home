@@ -1,6 +1,6 @@
 teia19:
   username: teia19
-  name: TEIA19
+  name: Teia 19
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
   bio: Plataforma informal de criação de conteúdos artísticos para disponibilização na web, apelando aos donativos do público.
@@ -9,7 +9,7 @@ teia19:
   instagram: _teia19_
   cover: False
 primaterca:
-username: primaterca
+  username: primaterca
   name: André Gago e Pedro Dias
   url_full: False
   url: False
@@ -19,4 +19,3 @@ username: primaterca
   instagram: False
   cover: False
   
-
