@@ -41,6 +41,7 @@
                         </span>
                     {% endif %}
                 {% endfor %}
+                <!-- this is dumb
                 <span class="reading-time">
                     {% assign words = post.content | strip_html | number_of_words %}
                     {% if words <= words_per_minute %}
@@ -49,6 +50,7 @@
                       {{ words | divided_by:words_per_minute }} min leitura
                     {% endif %}
                 </span>
+                -->
             </footer>
         </div>
     </article>
