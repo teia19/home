@@ -6,16 +6,16 @@ teia19:
   bio: Plataforma informal de criação de conteúdos artísticos para disponibilização na web, apelando aos donativos do público.
   picture: assets/images/ghost.png
   facebook: Teia19
-  #twitter: tryghost
+  instagram: _teia19_
   cover: False
 hannah:
   username: hannah
   name: Hannah Wolfe
   location: London, UK
-  url_full: http://hannah.wf/
+  url_full: http://
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
   facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  twitter: False
+  cover: aaa
