@@ -1,6 +1,6 @@
 teia19:
   username: teia19
-  name: Teia 19
+  name: TEIA19
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
   bio: Plataforma informal de criação de conteúdos artísticos para disponibilização na web, apelando aos donativos do público.
@@ -8,14 +8,15 @@ teia19:
   facebook: Teia19
   instagram: _teia19_
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+primaterca:
+username: primaterca
+  name: André Gago e Pedro Dias
+  url_full: False
+  url: False
+  bio: Prima Terça.
+  picture: assets/images/ghost.png
   facebook: False
-  twitter: False
-  cover: aaa
+  instagram: False
+  cover: False
+  
+
