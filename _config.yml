@@ -9,7 +9,8 @@ words_per_minute: 200
 baseurl: /jasper2/
 
 # Website info
-title: Teia 19
+title: TEIA19
+description:
 cover: assets/images/blog-cover.jpg
 logo: assets/images/teia19.png
 logo_dark: assets/images/favicon.png
