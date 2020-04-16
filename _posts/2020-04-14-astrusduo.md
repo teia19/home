@@ -5,7 +5,7 @@ cover:  assets/images/estreias/2astrusduo.jpg
 navigation: True
 title: Astrus Duo
 date: 2020-04-14 22:00:00
-tags: [Eventos Anteriores // TEIA19 '#2]
+tags: [TEIA19 '#2]
 class: post-template
 subclass: 'post tag-eventos-anteriores'
 author: astrusduo
