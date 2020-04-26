@@ -198,5 +198,5 @@ Roteirizado e interpretado por Romualdo Sarcedo, este trabalho é trazido como u
 
 
 ## Fique a par do trabalho de Romualdo Sarcedo
-• Instagram: https://www.instagram.com/romualdosarcedo/
-• YouTube: https://www.youtube.com/channel/UCntzTXLGzkze8t8bfeNwMsg
+* Instagram: https://www.instagram.com/romualdosarcedo/
+* YouTube: https://www.youtube.com/channel/UCntzTXLGzkze8t8bfeNwMsg
