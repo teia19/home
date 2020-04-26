@@ -5,9 +5,9 @@ cover:  assets/images/estreias/cancoes.jpg
 navigation: True
 title: Canções da Viagem
 date: 2020-04-24 22:00:00
-tags: [Estreia // '#4]
+tags: [TEIA19 // '#4]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: susanacruz
 ---
 
