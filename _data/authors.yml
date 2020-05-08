@@ -74,3 +74,14 @@ metamorfoses:
   facebook: False
   instagram: False
   cover: False
+
+  johnblackwolf:
+    username: johnblackwolf
+    name: Diogo Lima
+    url_full: False
+    url: False
+    bio: John Black Wolf
+    picture: False
+    facebook: False
+    instagram: False
+    cover: False

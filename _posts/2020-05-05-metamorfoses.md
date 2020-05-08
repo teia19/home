@@ -5,9 +5,9 @@ cover:  assets/images/estreias/6-metamorfoses.jpg
 navigation: True
 title: Prima Terça - Metamorfoses em Sena
 date: 2020-05-05 22:00:00
-tags: [Estreia // '#6]
+tags: [TEIA19 // '#6]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: metamorfoses
 ---
 
