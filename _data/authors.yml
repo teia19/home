@@ -85,3 +85,14 @@ johnblackwolf:
   facebook: False
   instagram: False
   cover: False
+
+charliemancini:
+  username: charliemancini
+  name: Charlie Mancini
+  url_full: False
+  url: False
+  bio: Charlie Mancini presents classic silent films with amazing live piano performances to bring these motion pictures back to life. 
+  picture: False
+  facebook: https://www.facebook.com/mrcharliemancini/
+  instagram: https://www.instagram.com/mrcharliemancini/
+  cover: False

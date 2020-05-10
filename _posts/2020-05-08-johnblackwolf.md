@@ -5,9 +5,9 @@ cover:  assets/images/estreias/7-johnblack.jpg
 navigation: True
 title: John Black Wolf
 date: 2020-05-08 22:00:00
-tags: [Estreia // '#7]
+tags: [TEIA19 // '#7]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: johnblackwolf
 ---
 
@@ -170,7 +170,7 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">Apoie os artistas</p> 
+    <p class = "apoia">Apoie este artista</p> 
     <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F2LTAAJU9NCBU&source=url';"><span>PayPal </span></button> 
 <br>
 <div class = "centerthat">
