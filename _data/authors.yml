@@ -96,3 +96,14 @@ charliemancini:
   facebook: https://www.facebook.com/mrcharliemancini/
   instagram: https://www.instagram.com/mrcharliemancini/
   cover: False
+
+sebenta:
+  username: sebenta
+  name: seBENTA
+  url_full: False
+  url: False
+  bio: False 
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
