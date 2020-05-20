@@ -8,7 +8,7 @@ date: 2020-05-19 22:00:00
 tags: [TEIA19 // '#10]
 class: post-template
 subclass: 'post tag-eventos-anteriores'
-author: andresarbib
+author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
