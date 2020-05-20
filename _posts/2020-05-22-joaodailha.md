@@ -1,18 +1,18 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/10-andresarbib.jpg
+cover:  assets/images/estreias/11-joaodailha.jpg
 navigation: True
-title: André Sarbib
-date: 2020-05-19 22:00:00
-tags: [TEIA19 // '#10]
+title: João da Ilha
+date: 2020-05-22 22:00:00
+tags: [ESTREIA // '#11]
 class: post-template
-subclass: 'post tag-eventos-anteriores'
-author: andresarbib
+subclass: 'post tag-estreia'
+author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xFiP-maO1JA?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NdBsT2W-zdw?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -172,22 +172,22 @@ function myFunction2() {
 
 <div class="center">
     <p class = "apoia">Apoie os artistas</p> 
-    <!-- <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVWCDRZS5FJFW&item_name=SEBENTA%40TEIA19&currency_code=EUR&source=url';"><span>PayPal </span></button>-->
+    <button class="button" onclick="window.location.href = 'paypal.me/joaodailha';"><span>PayPal </span></button>
 <br>
 <div class = "centerthat">
   <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="PT50003300000368046529163" id="myInput"> 
+  <input type="text" class="no-outline info_numbers" value="PT50019300001050044870877" id="myInput"> 
   <!-- The button used to copy the text -->
   <button class="btn info"  onclick="myFunction()">Copiar número de IBAN 🏧 <br />
 
-  Nome: André Sarbib </button>
+  Nome: João Pedro Leonardo </button>
 </div>
 <br>
 <br>
 
  <div class = "centerthat"> 
   <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="962424239" id="myInput2">
+  <input type="text" class="no-outline info_numbers" value="928023143" id="myInput2">
   <!-- The button used to copy the text -->
   <button class="btn info" onclick="myFunction2()">Copiar número de MBWAY 📲</button>
 </div>
@@ -198,17 +198,17 @@ function myFunction2() {
 
 <br>
 
-André Sarbib é  um dos mais prestigiados músicos do cenário musical português. 
+Dono de uma voz cálida e intimista, João da Ilha transpõe para sua música as raízes e o universo açoriano, cruzando a música tradicional com correntes contemporâneas da música popular, que vão do pop ao jazz, passando pela world music, a que o próprio designa por 'música do Atlântico'.
 
-Fez e faz parte de várias bandas e projetos musicais, e conta com participações em shows de outros artistas, para além do seu trabalho para músicos como Joe Lovano, Barry Altschul, Ivan Lins, Carls Benavent, Ruben Dantas, Alice Day, Jorge Rossi, Saheb Sarbib, Carlos Carli, Joaquín Chacón, Paulo de Carvalho e António Serrano, entre outros.
-
-Em 1990, estreou-se com o seu primeiro trabalho a solo, intitulado "Silêncio das Águas", com a editora Numérica. Em 1993, editou o seu segundo CD, "Coisas da Noite",. Em 2008 ele gravou o álbum “This is it!", focado inteiramente no Jazz, acompanhado de performance em voz do próprio.
-
-Atualmente, André Sarbib é o pianista convidado de Ivan Lins em vários espetáculos pela Europa, e tem dois projetos prontos para apresentar. Está também a trabalhar num novo álbum, que estará pronto em 2021.
+O João nasceu na Ilha Terceira, onde absorveu muitas das influências para a sua música. Desenvolveu posteriormente o seu percurso em Portugal Continental, nomeadamente na região de Setúbal onde se estabeleceu durante quase 20 anos, mantendo sempre a ponte entre as Ilhas Açorianas e o Continente. Em 2019 estabelece-se de novo na sua ilha de origem continuando a divulgar a sua música de inspiração atlântica.
+Em 2020 prepara novas canções com um novo álbum "Quatro Estações Num Dia", inspirado numa vivência plena de açorianidade, passível de ser experienciada em qualquer das nove ilhas do arquipélago.
 
 
+### Segue João da Ilha
+* Web: <a href="http://www.joaodailha.com">http://www.joaodailha.com</a>
+* Bandcamp: <a href="https://joaodailha.bandcamp.com/">https://joaodailha.bandcamp.com/</a>
+* Facebook: <a href="https://www.facebook.com/joaodailha">https://www.facebook.com/joaodailha</a>
+* Instagram: <a href="https://www.instagram.com/joaodailhamusic/">https://www.instagram.com/joaodailhamusic/</a>
+* YouTube: <a href="https://www.youtube.com/c/JoaodaIlha">https://www.youtube.com/c/JoaodaIlha/</a>
 
-### Segue André Sarbib
-* Facebook: <a href="https://www.facebook.com/sarbib.pianista.compositor">https://www.facebook.com/sarbib.pianista.compositor</a>
-* Instagram: <a href="https://www.instagram.com/andre_sarbib/">https://www.instagram.com/andre_sarbib/</a>
 
