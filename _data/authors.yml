@@ -140,3 +140,14 @@ confinamento:
   facebook: False
   instagram: False
   cover: False
+
+guardador:
+  username: guardador
+  name: Carlos ABC
+  url_full: False
+  url: False
+  bio: False 
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
