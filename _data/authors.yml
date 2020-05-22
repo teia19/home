@@ -129,3 +129,14 @@ jazzin:
   facebook: False
   instagram: False
   cover: False
+  
+confinamento:
+  username: confinamento
+  name: Leonor Zarcos e Jean Silva
+  url_full: False
+  url: False
+  bio: False 
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
