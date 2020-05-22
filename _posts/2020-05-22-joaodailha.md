@@ -172,7 +172,7 @@ function myFunction2() {
 
 <div class="center">
     <p class = "apoia">Apoie os artistas</p> 
-    <button class="button" onclick="window.location.href = 'paypal.me/joaodailha';"><span>PayPal </span></button>
+    <button class="button" onclick="window.location.href = 'https://paypal.me/joaodailha';"><span>PayPal </span></button>
 <br>
 <div class = "centerthat">
   <!-- The text field -->
