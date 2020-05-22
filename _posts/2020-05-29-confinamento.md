@@ -200,12 +200,12 @@ O João e a Leonor são dois actores que, tal como muitos outros, viram os seus 
 “E se o pior acontecer, iremos de sorriso na cara.”
 
 
-### Segue o seu trabalho
+## Segue o seu trabalho
 
-## Jean Silva
+### Jean Silva
 * Instagram: <a href="https://www.instagram.com/ideolojean/">https://www.instagram.com/ideolojean/</a>
 
-## Leonor Zarcos
+### Leonor Zarcos
 * Instagram: <a href="https://www.instagram.com/leonor_zarcos/">https://www.instagram.com/leonor_zarcos/</a>
 
 
