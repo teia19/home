@@ -5,7 +5,7 @@ cover:  assets/images/estreias/11-joaodailha.jpg
 navigation: True
 title: João da Ilha
 date: 2020-05-22 22:00:00
-tags: [ESTREIA // '#11]
+tags: [TEIA19 // '#11]
 class: post-template
 subclass: 'post tag-estreia'
 author: False
