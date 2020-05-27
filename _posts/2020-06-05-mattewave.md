@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/14-guardador.jpg
+cover:  assets/images/estreias/17-mattewave.jpg
 navigation: True
-title: O Guardador de Rebanhos
-date: 2020-06-05 23:59:00
+title: MATTEWAVE
+date: 2019-06-05 23:59:00
 tags: [ESTREIA // '#17]
 class: post-template
 subclass: 'post tag-estreia'
