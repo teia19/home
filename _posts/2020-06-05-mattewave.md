@@ -1,18 +1,18 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/12-jazzin.jpg
+cover:  assets/images/estreias/14-guardador.jpg
 navigation: True
-title: Jazzin'
-date: 2020-05-26 22:00:00
-tags: [TEIA19 // '#12]
+title: O Guardador de Rebanhos
+date: 2020-06-05 23:59:00
+tags: [ESTREIA // '#17]
 class: post-template
-subclass: 'post tag-eventos-anteriores'
-author: jazzin
+subclass: 'post tag-estreia'
+author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/glnGYWzD0Oc?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvlEsfWmNCU?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -172,36 +172,34 @@ function myFunction2() {
 
 <div class="center">
     <p class = "apoia">Apoie os artistas</p> 
-    <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTSA4ZZX8P7AC&source=url';"><span>PayPal </span></button>
+    
 <br>
 <div class = "centerthat">
   <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="PT50001000001731650000138" id="myInput"> 
+  <input type="text" class="no-outline info_numbers" value="PT50002300004559729478994" id="myInput"> 
   <!-- The button used to copy the text -->
   <button class="btn info"  onclick="myFunction()">Copiar número de IBAN 🏧 <br />
 
-  Nome: José António Soares Brito </button>
+  Nome: Rodrigo Flores </button>
 </div>
 <br>
 <br>
-
- <div class = "centerthat"> 
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="914883702" id="myInput2">
-  <!-- The button used to copy the text -->
-  <button class="btn info" onclick="myFunction2()">Copiar número de MBWAY 📲</button>
-</div>
 
 </div>  
 
-
-
 <br>
 
-Zé Soares e Ivo Soares, pai e filho, ambos músicos e licenciados em Jazz, trazem uma performance numa conexão entre uma abordagem moderna com sonoridades soul mas com raiz tradicional.
 
-Zé Soares é fundador do projeto em nome pessoal "Nine Ways" e conta já com 4 trabalhos gravados: Politonia, Periférico, Lisboa e Silêncio. A sua música desde então evoluiu para um conceito mais interdisciplinar, cruzando a música com outras expressões artísticas.
+Mattewave é um DJ e produtor musical brasileiro, nascido na cidade de Porto Alegre, RS – Brasil, com passagem por Toronto e atualmente residindo no Porto, em Portugal.
+O artista tem um público fiel, que se identifica com seu estilo, trazendo músicas do passado com uma nova roupagem, muito atual, num ritmo empolgante e dançante. Teclados, sintetizadores, uma pitada de disco music e rock ‘n’ roll estão sempre presentes nas suas produções. Música boa aliada a uma grande presença de palco e interação com a plateia são as marcas do artista.
+Ainda utilizando outra assinatura, dividiu palco com diversos artistas e bandas brasileiras. Já como Mattewave, teve a satisfação de estar no palco do Brazilian Day Toronto por duas vezes, Brasil Fest e diversas festas de passagem de ano no Brasil e Canadá, tocando em nightclubs como Fiction e Cabana Pool Bar. Mattewave só quer ser a sua melhor versão cada vez que subir ao palco.
 
-Ivo Soares vai lançar o seu 2º trabalho discográfico em Maio, com sons de soul e R&B. Este artista conta com um vasto portefólio: foi finalista do músico Héber Marques dos HMB, no programa televisivo da SIC Just Duet, escolhido como baking vocal numa atuação com o músico Agir no Rock in Rio, ganhou o concurso da MTV em que fez um dueto com a cantora Aurea no Meo Like Music e foi considerado como o melhor instrumentista (voz) na 13ª Festa do Jazz no São Luís.
+
+### Segue Mattewave
+* Facebook: <a href="https://www.facebook.com/mattewavemusic/">https://www.facebook.com/mattewavemusic/</a>
+* Instagram: <a href="https://www.instagram.com/mattewavemusic/">https://www.instagram.com/mattewavemusic/</a>
+* Twitter: <a href="https://twitter.com/mattewavemusic">https://twitter.com/mattewavemusic</a>
+* Soundcloud: <a href="https://soundcloud.com/mattewavemusic">https://soundcloud.com/mattewavemusic</a>
+* Spotify: <a href="https://open.spotify.com/artist/08tCexdL3BR7uiK6vR0BPz">https://open.spotify.com/artist/08tCexdL3BR7uiK6vR0BPz</a>
 
 
