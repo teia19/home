@@ -7,7 +7,7 @@ title: João da Ilha
 date: 2020-05-22 22:00:00
 tags: [TEIA19 // '#11]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: False
 ---
 
