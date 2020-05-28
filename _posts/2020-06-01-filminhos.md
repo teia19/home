@@ -13,27 +13,15 @@ author: filminhos
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
 <div class="center">
-  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <input type="button" class="myclass" /></a>  
+  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <h3 class="no-outline info_numbers centerthat">CLIQUE AQUI OU NA IMAGEM PARA ACEDER AO PROGRAMA</h3></a>
+  <p>Disponível entre 1 e 8 de junho</p>  
 </div>
 
-
-<!-- <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a> -->
+<a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a>
 
 
 <!-- CSS code for some personalization -->
 <style>
-
-    input.myclass { 
-    background-image: url('https://i.ibb.co/FsrHQP6/thumbnailteaser.jpg'); 
-    background-repeat: no-repeat;  
-    background-position: 0px 0px;
-    background-size: 560px 315px;
-    width: 510px;
-    height: 315px:
-     }
-
-    input.myclass:hover { background-position: 0px -25px; } 
-
     .button {
       margin: auto;  
       display: block;
@@ -205,27 +193,50 @@ function myFunction2() {
 <br>
 
 
-"Joana está na Lua" conta as aventuras de uma pequena menina que, pelos poderes de uma máquina mágica e após múltiplas aventuras, se torna cada vez mais pequena até encontrar o mundo das miniaturas. Uma história que nasce no teatro, eterniza-se no livro e se recria num conto animado mantendo sempre a sua essência: o jogo do sonho e do grande e pequeno em permanente movimento. 
+A Zero em Comportamento junta-se à TEIA19 com um programa especialmente pensado para os mais pequenos.
+Este programa de Filminhos para Bebés (dos 1 aos 3 anos) com a duração de 45 minutos, ficará disponível na plataforma da TEIA19 no dia 1 de Junho, assinalando o Dia Mundial da Criança.
 
 
-Com Ana Enes e Maria João Trindade
-Ilustrações de Danuta Wojciechowska e Inês do Carmo
+O programa será composto pelos seguintes filmes:
+	
+### OS TUMBLIES E O BOTÃO MÁGICO
+Patrick Raats, Animação, Holanda, 2013, 5 min. 
+Os três Tumblies e o seu cão adoram rolar, cair, desmontar-se e voltar a juntar as suas partes. Num clima de amizade e cooperação, os quatro amigos vão encontrar diferentes aventuras onde a interajuda e a diversão são fundamentais para serem bem-sucedidos...
+	
+### MANCHA E MANCHINHAS - O PIQUENIQUE
+Uzi Geffenblad, Lotta Geffenblad, Animação, Suécia, 2012, 7 min.
+Mancha e Manchinhas fazem um piquenique, mas é muito mais giro observar os diferentes tipos de insectos que por lá andam. No entanto, tudo muda quando os insectos começam a mordê-los. É mais fácil fazer um piquenique em casa, sentados no sofá e a ler um livro sobre insectos.
+	
+### O DRAGÃO E A MÚSICA
+Camille Muller, Animação, Suíça, 2012, 8 min 
+Nos bosques, uma menina torna-se amiga de um dragão. Os dois brincam e tocam música juntos, mas correm perigo, porque o Rei apenas autoriza marchas militares.
+	
+### A HISTÓRIA DO CÃO E DO GATO
+Jesús Pérez, Gerd Gockell, Animação, Suíça, Alemanha, 2011, 6 min 
+Um filme sobre a amizade. Não se pode forçar uma amizade, mas uma emergência pode criar uma amizade.
+	
+### O PASSARINHO E A FOLHA 
+Lena von Döhren, Animação, Suíça, 2012, 4 min.
+O passarinho toma conta de uma folha amarela. Mas uma rajada de vento leva-a e assim se dá início a uma atribulada perseguição. Entretanto, a raposa está de olho no passarinho.
+	
+### DEMASIADO PRINCIPEZINHO
+Zoia Trofimova, Animação, França, 2002, 7'.
+Quando o sol nasce no horizonte, revela algumas manchas na sua superfície. Cheio de determinação e muita paciência, um rapaz, pequeníssimo, mas muito decidido, vai tentar limpar aquelas nódoas com todos os métodos ao seu alcance
+	
+### FOXY E MEG DESCOBREM AS CORES
+André Letria, Animação, Portugal, 2010, 3 min 
+Num passeio pela rua, Foxy e Meg, encontram tantas cores diferentes! Quantas e de quem serão?
+	
+### A NUVEM FOFINHA
+Conor Finnegan. Irlanda, Animação, 2010, 3’
+A Nuvem Fofinha quer ajudar a cidade, mas acaba por incendiá-la sem querer.
 
 
-## LUA CHEIA teatro para todos
-É uma companhia profissional que nasce em 1996, em Lisboa. Em 1998 constitui-se como associação cultural, tendo como objetivo criar e produzir espetáculos teatrais, assim como ações de animação cultural.
-Desenvolve a criação artística numa articulação constante entre ator, objeto e marioneta, criando uma relação transversal com todas as áreas de expressão artística. 
-
-Com um trabalho direcionado à infância, "teatro para todos" quer dizer que se dirige a um público alargado, que inclua igualmente jovens e adultos. 
-
-Desde 2015 dinamiza a CASA DO CORETO, uma antiga serralharia transformada num espaço cultural em parceria com a Junta de Freguesia de Carnide. Mantém uma programação regular com espetáculos de teatro e marionetas, intercâmbios e acolhimentos de companhias nacionais e internacionais, oficinas artísticas, exposições temporárias e projetos comunitários.
-
-No sentido da marca de identidade da Casa do Coreto e de fidelização de público aposta no desenvolvimento de dois projetos de cariz anual – Cucu! espetáculos para bebés, que assume o formato de Festival e reúne diferentes propostas de sensibilização às artes desde a primeira infância; e Gargalhadas na Lua, Mostra Internacional de Humor e Comicidade.
+A Zero em Comportamento trabalha há mais de 20 anos em cinema e desde há cerca de 8 anos que está especialmente vocacionada para o cinema enquanto ferramenta lúdico-pedagógica para todas as idades.
+Ao longo dos tempos, tem vindo a reunir um conjunto de filmes de diferentes durações e nacionalidades que lhe permitem ter condições para oferecer conteúdos de qualidade artística mas que, ao mesmo tempo, apresentam um conteúdo de significativo valor pedagógico e que, portanto, são perfeitos para os educadores (pais e professores) abordarem questões fundamentais para o crescimento das crianças e jovens enquanto seres humanos conscientes e críticos do mundo em que vivemos.
 
 
-### Segue a Lua Cheia
-* Site: <a href="https://www.luacheia.pt">https://www.luacheia.pt</a>
-* Facebook: <a href="https://www.facebook.com/LuaCheiapt/">https://www.facebook.com/LuaCheiapt/</a>
+<a href="https://videoclube.zeroemcomportamento.org/">https://videoclube.zeroemcomportamento.org/</a>
 
 
 # Com o apoio de Estrelas & Ouriços
