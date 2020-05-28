@@ -13,13 +13,23 @@ author: filminhos
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
 <div class="center">
-  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <h3 class="no-outline info_numbers centerthat">CLIQUE NA IMAGEM PARA ACEDER AO PROGRAMA</h3></a>  
+  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <input type="button" class="myclass" /></a>  
 </div>
-<a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a>
+
+
+<!-- <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a> -->
 
 
 <!-- CSS code for some personalization -->
 <style>
+
+    input.myclass { 
+    background-image: url('https://i.ibb.co/FsrHQP6/thumbnailteaser.jpg'); 
+    background-repeat: no-repeat;  
+    background-position: 0px 0px; }
+
+    input.myclass:hover { background-position: 0px -25px; } 
+
     .button {
       margin: auto;  
       display: block;
