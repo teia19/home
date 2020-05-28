@@ -232,9 +232,6 @@ Conor Finnegan. Irlanda, Animação, 2010, 3’
 A Nuvem Fofinha quer ajudar a cidade, mas acaba por incendiá-la sem querer.
 
 
-A Zero em Comportamento trabalha há mais de 20 anos em cinema e desde há cerca de 8 anos que está especialmente vocacionada para o cinema enquanto ferramenta lúdico-pedagógica para todas as idades.
-Ao longo dos tempos, tem vindo a reunir um conjunto de filmes de diferentes durações e nacionalidades que lhe permitem ter condições para oferecer conteúdos de qualidade artística mas que, ao mesmo tempo, apresentam um conteúdo de significativo valor pedagógico e que, portanto, são perfeitos para os educadores (pais e professores) abordarem questões fundamentais para o crescimento das crianças e jovens enquanto seres humanos conscientes e críticos do mundo em que vivemos.
-
 
 <a href="https://videoclube.zeroemcomportamento.org/">https://videoclube.zeroemcomportamento.org/</a>
 
