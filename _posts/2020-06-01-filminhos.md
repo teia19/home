@@ -13,7 +13,7 @@ author: filminhos
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
 <div class="center">
-  <h3 class="no-outline info_numbers centerthat">CLIQUE NA IMAGEM PARA ACEDER AO PROGRAMA</h3>  
+  <h3 class="no-outline info_numbers centerthat" href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes">CLIQUE NA IMAGEM PARA ACEDER AO PROGRAMA</h3>  
 </div>
 <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a>
 
