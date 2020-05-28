@@ -28,6 +28,7 @@ author: filminhos
     background-repeat: no-repeat;  
     background-position: 0px 0px;
     background-size: 560px 315px;
+    width: 510px;
      }
 
     input.myclass:hover { background-position: 0px -25px; } 
