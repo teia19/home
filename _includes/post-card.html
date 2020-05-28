@@ -1,5 +1,13 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
 {% assign counter = 0 %}
+
+<!--    ESPAÇO PARA ARTIGOS EXTRA              -->
+
+
+
+<!--    ||||||||||||||||||||              -->
+
+
 {% for post in paginator.posts %}
     {% if counter < 7 %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
