@@ -29,7 +29,7 @@ author: filminhos
     background-position: 0px 0px;
     background-size: 560px 315px;
     width: 510px;
-    height: 310px:
+    height: 315px:
      }
 
     input.myclass:hover { background-position: 0px -25px; } 
