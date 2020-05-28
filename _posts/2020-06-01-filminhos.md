@@ -184,6 +184,7 @@ function myFunction2() {
 
   Nome: Rui Pereira </button>
 </div>
+</div>
 <br>
 <br>
 
