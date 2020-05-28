@@ -201,35 +201,51 @@ O programa será composto pelos seguintes filmes:
 	
 ### OS TUMBLIES E O BOTÃO MÁGICO
 Patrick Raats, Animação, Holanda, 2013, 5 min. 
+
 Os três Tumblies e o seu cão adoram rolar, cair, desmontar-se e voltar a juntar as suas partes. Num clima de amizade e cooperação, os quatro amigos vão encontrar diferentes aventuras onde a interajuda e a diversão são fundamentais para serem bem-sucedidos...
 	
+
 ### MANCHA E MANCHINHAS - O PIQUENIQUE
 Uzi Geffenblad, Lotta Geffenblad, Animação, Suécia, 2012, 7 min.
+
 Mancha e Manchinhas fazem um piquenique, mas é muito mais giro observar os diferentes tipos de insectos que por lá andam. No entanto, tudo muda quando os insectos começam a mordê-los. É mais fácil fazer um piquenique em casa, sentados no sofá e a ler um livro sobre insectos.
 	
+
 ### O DRAGÃO E A MÚSICA
 Camille Muller, Animação, Suíça, 2012, 8 min 
+
 Nos bosques, uma menina torna-se amiga de um dragão. Os dois brincam e tocam música juntos, mas correm perigo, porque o Rei apenas autoriza marchas militares.
 	
+
 ### A HISTÓRIA DO CÃO E DO GATO
 Jesús Pérez, Gerd Gockell, Animação, Suíça, Alemanha, 2011, 6 min 
+
 Um filme sobre a amizade. Não se pode forçar uma amizade, mas uma emergência pode criar uma amizade.
 	
+
 ### O PASSARINHO E A FOLHA 
 Lena von Döhren, Animação, Suíça, 2012, 4 min.
+
 O passarinho toma conta de uma folha amarela. Mas uma rajada de vento leva-a e assim se dá início a uma atribulada perseguição. Entretanto, a raposa está de olho no passarinho.
 	
+
 ### DEMASIADO PRINCIPEZINHO
 Zoia Trofimova, Animação, França, 2002, 7'.
+
 Quando o sol nasce no horizonte, revela algumas manchas na sua superfície. Cheio de determinação e muita paciência, um rapaz, pequeníssimo, mas muito decidido, vai tentar limpar aquelas nódoas com todos os métodos ao seu alcance
 	
+
 ### FOXY E MEG DESCOBREM AS CORES
 André Letria, Animação, Portugal, 2010, 3 min 
+
 Num passeio pela rua, Foxy e Meg, encontram tantas cores diferentes! Quantas e de quem serão?
 	
+
 ### A NUVEM FOFINHA
 Conor Finnegan. Irlanda, Animação, 2010, 3’
+
 A Nuvem Fofinha quer ajudar a cidade, mas acaba por incendiá-la sem querer.
+
 
 
 
