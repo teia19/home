@@ -26,7 +26,9 @@ author: filminhos
     input.myclass { 
     background-image: url('https://i.ibb.co/FsrHQP6/thumbnailteaser.jpg'); 
     background-repeat: no-repeat;  
-    background-position: 0px 0px; }
+    background-position: 0px 0px;
+    background-size: 560px 315px;
+     }
 
     input.myclass:hover { background-position: 0px -25px; } 
 
