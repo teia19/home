@@ -1,19 +1,21 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/18-krisrosa.jpg
+cover:  assets/images/infantil/a-filminhos.jpg
 navigation: True
-title: Kris Rosa e Zé Carolino
-date: 2020-06-09 22:00:00
-tags: [ESTREIA // '#18]
+title: Filminhos para Bebés
+date: 2019-06-01 00:00:00
+tags: [ESTRELAS E OURIÇOS // '#A]
 class: post-template
 subclass: 'post tag-estreia'
-author: False
+author: filminhos
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vjaauPp1oaE?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="center">
+  <p class="no-outline info_numbers">CLIQUE NA IMAGEM PARA ACEDER AO PROGRAMA</p>  
+</div>
+<a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <img border="0" alt="filminhos-video" src="assets/images/infantil/a-filminhos-video.jpg" width="560" height="315"></a>
 
 
 <!-- CSS code for some personalization -->
@@ -171,39 +173,45 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">Apoie os artistas</p> 
-    <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=8X4W5QR85EAQU&item_name=krisrosaezecarolino%40teia19&currency_code=EUR&source=url';"><span>PayPal </span></button> 
+    <p class = "apoia">APOIE ESTE PROJETO</p> 
+    <!-- <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6M3EYZJ46GX8C&source=url';"><span>PayPal </span></button> -->
 <br>
 <div class = "centerthat">
   <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="PT50003300004530401994505" id="myInput"> 
+  <input type="text" class="no-outline info_numbers" value="PT50002300004558853801794" id="myInput"> 
   <!-- The button used to copy the text -->
   <button class="btn info"  onclick="myFunction()">Copiar número de IBAN 🏧<br />
 
-  Nome: Krislaine de Almeida Rosa Carolino </button>
+  Nome: Rui Pereira </button>
 </div>
 <br>
 <br>
 
-<div class = "centerthat"> 
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="910833186" id="myInput2">
-  <!-- The button used to copy the text -->
-  <button class="btn info" onclick="myFunction2()">Copiar número de MBWAY 📲</button>
-</div>
-
 <br>
 
 
-Kris Rosa e Zé Carolino, músicos. Ela, brasileira com 16 anos de Portugal, ele, português com 25 anos de Brasil: esta combinação fica bem identificada no projeto que trazem para este Pocket Concert, a “Música da Brasiguesa e do Prof. Pardal", em Bossa Nova Lounge.
-Os dois têm um percurso musical bem diversificado, atuando em vários tipos de eventos, seja em formato duo ou em bandas.
-Nesta apresentação audiovisual, dão a conhecer a sau música e todos os projetos que estes músicos têm feito por Portugal e pelo mundo.
+"Joana está na Lua" conta as aventuras de uma pequena menina que, pelos poderes de uma máquina mágica e após múltiplas aventuras, se torna cada vez mais pequena até encontrar o mundo das miniaturas. Uma história que nasce no teatro, eterniza-se no livro e se recria num conto animado mantendo sempre a sua essência: o jogo do sonho e do grande e pequeno em permanente movimento. 
 
 
-### Segue o trabalho de Kris Rosa
-* Site: <a href="https://www.krisrosa.com">https://www.krisrosa.com</a>
-* Facebook: <a href="https://www.facebook.com/krisrosakris/">https://www.facebook.com/krisrosakris/</a>
-* Instagram: <a href="https://www.instagram.com/krisrosa3/">https://www.instagram.com/krisrosa3/</a>
-* YouTube: <a href="https://youtube.com/user/krisrosa3">https://youtube.com/user/krisrosa3</a>
+Com Ana Enes e Maria João Trindade
+Ilustrações de Danuta Wojciechowska e Inês do Carmo
 
+
+## LUA CHEIA teatro para todos
+É uma companhia profissional que nasce em 1996, em Lisboa. Em 1998 constitui-se como associação cultural, tendo como objetivo criar e produzir espetáculos teatrais, assim como ações de animação cultural.
+Desenvolve a criação artística numa articulação constante entre ator, objeto e marioneta, criando uma relação transversal com todas as áreas de expressão artística. 
+
+Com um trabalho direcionado à infância, "teatro para todos" quer dizer que se dirige a um público alargado, que inclua igualmente jovens e adultos. 
+
+Desde 2015 dinamiza a CASA DO CORETO, uma antiga serralharia transformada num espaço cultural em parceria com a Junta de Freguesia de Carnide. Mantém uma programação regular com espetáculos de teatro e marionetas, intercâmbios e acolhimentos de companhias nacionais e internacionais, oficinas artísticas, exposições temporárias e projetos comunitários.
+
+No sentido da marca de identidade da Casa do Coreto e de fidelização de público aposta no desenvolvimento de dois projetos de cariz anual – Cucu! espetáculos para bebés, que assume o formato de Festival e reúne diferentes propostas de sensibilização às artes desde a primeira infância; e Gargalhadas na Lua, Mostra Internacional de Humor e Comicidade.
+
+
+### Segue a Lua Cheia
+* Site: <a href="https://www.luacheia.pt">https://www.luacheia.pt</a>
+* Facebook: <a href="https://www.facebook.com/LuaCheiapt/">https://www.facebook.com/LuaCheiapt/</a>
+
+
+# Com o apoio de Estrelas & Ouriços
 

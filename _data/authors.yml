@@ -162,4 +162,26 @@ chandi:
   facebook: False
   instagram: False
   cover: False
+
+joana:
+  username: joana
+  name: Lua Cheia
+  url_full: False
+  url: False
+  bio: Companhia profissional que nasce em 1996, em Lisboa. Em 1998 constitui-se como associação cultural, tendo como objetivo criar e produzir espetáculos teatrais, assim como ações de animação cultural. Desenvolve a criação artística numa articulação constante entre ator, objeto e marioneta, criando uma relação transversal com todas as áreas de expressão artística. 
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
+  
+filminhos:
+  username: filminhos
+  name: Zero em Comportamento
+  url_full: False
+  url: False
+  bio: A Zero em Comportamento trabalha há mais de 20 anos em cinema e desde há cerca de 8 anos que está especialmente vocacionada para o cinema enquanto ferramenta lúdico-pedagógica para todas as idades.Ao longo dos tempos tem vindo a reunir um conjunto de filmes de diferentes durações e nacionalidades que lhe permitem ter condições para oferecer conteúdos de qualidade artística mas que, ao mesmo tempo, apresentam um conteúdo de significativo valor pedagógico e que, portanto, são perfeitos para os educadores (pais e professores) abordarem questões fundamentais para o crescimento das crianças e jovens enquanto seres humanos conscientes e críticos do mundo em que vivemos.
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
   
