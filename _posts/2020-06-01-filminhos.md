@@ -176,7 +176,7 @@ function myFunction2() {
 
 <div class="center">
     <p class = "apoia">APOIE ESTE PROJETO</p> 
-    <!-- <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6M3EYZJ46GX8C&source=url';"><span>PayPal </span></button> -->
+    <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3B2CWUG88X38G&source=url';"><span>PayPal </span></button>
 <br>
 <div class = "centerthat">
   <!-- The text field -->
