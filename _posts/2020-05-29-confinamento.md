@@ -5,9 +5,9 @@ cover:  assets/images/estreias/13-confinamento.jpg
 navigation: True
 title: Confinamento
 date: 2020-05-29 21:00:00
-tags: [ESTREIA // '#13]
+tags: [TEIA19 // '#13]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: confinamento
 ---
 

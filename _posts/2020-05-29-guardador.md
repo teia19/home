@@ -5,9 +5,9 @@ cover:  assets/images/estreias/14-guardador.jpg
 navigation: True
 title: O Guardador de Rebanhos
 date: 2020-05-29 22:00:00
-tags: [ESTREIA // '#14]
+tags: [TEIA19 // '#14]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: guardador
 ---
 
