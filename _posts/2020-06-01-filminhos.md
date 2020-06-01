@@ -13,7 +13,7 @@ author: filminhos
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
 <div class="center">
-  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <h3 class="no-outline info_numbers centerthat">CLIQUE AQUI OU NA IMAGEM PARA ACEDER AO PROGRAMA</h3></a>
+  <a href="https://videoclube.zeroemcomportamento.org/programs/filminhos-para-bebes"> <h3 class="no-outline info_numbers centerthat">CLIQUE AQUI OU NA IMAGEM PARA VISUALIZAR OS FILMINHOS</h3></a>
   <p>Disponível entre 1 e 8 de junho</p>  
 </div>
 
