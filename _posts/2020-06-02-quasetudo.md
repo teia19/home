@@ -12,7 +12,7 @@ author: quasetudo
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/vjaauPp1oaE?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQG7-TQAuo4?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -171,7 +171,7 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">DISPONÍVEL EM BREVE!</p> 
+    <p class = "apoia">APOIE ESTE PROJETO</p> 
     <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XYFVBTWZ9BF8Y&source=url';"><span>PayPal </span></button> 
 <br>
 <div class = "centerthat">
