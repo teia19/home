@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/17-mattewave.jpg
+cover:  assets/images/estreias/16-transitos.jpg
 navigation: True
 title: Trânsitos
 date: 2019-06-05 23:59:00
@@ -203,8 +203,9 @@ Neste caminho que já percorreu Cabo Verde, Brasil, Holanda, Alemanha e Itália,
 #### Chandi Oliveira - Voz
 #### Lúcio Vieira - Baixo, Guitarra e Teclado
 
+-
 
-### Segue Chandi Oliveira
+## Segue Chandi Oliveira
 * Facebook: <a href="https://www.facebook.com/chandi.oliveira/">https://www.facebook.com/chandi.oliveira/</a>
 * Instagram: <a href="https://www.instagram.com/chandiartist/">https://www.instagram.com/chandiartist/</a>
 * Twitter: <a href="https://www.youtube.com/channel/UCbcXncY_UaW99DPS7PoSa4A">https://www.youtube.com/channel/UCbcXncY_UaW99DPS7PoSa4A</a>
