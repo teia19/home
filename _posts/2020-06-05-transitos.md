@@ -4,8 +4,8 @@ current: post
 cover:  assets/images/estreias/16-transitos.jpg
 navigation: True
 title: Trânsitos
-date: 2019-06-05 23:59:00
-tags: [ESTREIA // '#17]
+date: 2020-06-05 22:00:00
+tags: [ESTREIA // '#16]
 class: post-template
 subclass: 'post tag-estreia'
 author: chandi
