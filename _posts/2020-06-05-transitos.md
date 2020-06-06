@@ -5,9 +5,9 @@ cover:  assets/images/estreias/16-transitos.jpg
 navigation: True
 title: Trânsitos
 date: 2020-06-05 22:00:00
-tags: [ESTREIA // '#16]
+tags: [TEIA19 // '#16]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: chandi
 ---
 

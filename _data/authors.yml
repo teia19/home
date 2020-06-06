@@ -206,3 +206,14 @@ chandi:
   facebook: False
   instagram: False
   cover: False
+  
+quinta:
+  username: quinta
+  name: Quinta da Regaleira
+  url_full: False
+  url: False
+  bio: A Quinta da Regaleira constitui um dos mais surpreendentes monumentos da Serra de Sintra. Situada no termo do centro histórico da Vila, foi construída entre 1904 e 1910, no derradeiro período da monarquia.
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
