@@ -3,9 +3,9 @@ layout: post
 current: post
 cover:  assets/images/estreias/19-dancas.jpg
 navigation: True
-title: Danças com História
+title: Danças da Renascença na Quinta da Regaleira
 date: 2020-06-12 22:00:00
-tags: [ESTREIA // '#18]
+tags: [ESTREIA // '#19]
 class: post-template
 subclass: 'post tag-estreia'
 author: quinta
