@@ -3,12 +3,12 @@ layout: post
 current: post
 cover:  assets/images/estreias/21-plasticine.jpg
 navigation: True
-title: Respostas a Malmequeres
+title: Plasticine
 date: 2020-07-03 22:00:00
 tags: [ESTREIA // '#21]
 class: post-template
 subclass: 'post tag-estreia'
-author: plasticine
+author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
