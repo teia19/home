@@ -5,9 +5,9 @@ cover:  assets/images/estreias/19-dancas.jpg
 navigation: True
 title: Danças da Renascença na Quinta da Regaleira
 date: 2020-06-12 22:00:00
-tags: [ESTREIA // '#19]
+tags: [TEIA19 // '#19]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: quinta
 ---
 
