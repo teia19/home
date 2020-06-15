@@ -1,19 +1,18 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/20-respostas.jpg
+cover:  assets/images/infantil/c-renascimento.jpg
 navigation: True
-title: Respostas a Malmequeres
-date: 2020-06-26 22:00:00
-tags: [ESTREIA // '#20]
+title: Renascimento – Inovação e Arte!
+date: 2019-06-15 10:00:00
+tags: [ESTRELAS E OURIÇOS // '#C]
 class: post-template
 subclass: 'post tag-estreia'
-author: embuscada
+author: quinta
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0EvI-bM2xZc?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSWuR1Bdl_4?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!-- CSS code for some personalization -->
@@ -111,7 +110,7 @@ author: embuscada
     }
 
     .no-outline:focus {
-      outline: none; 
+      outline: none;
     }
 
   .info_numbers{
@@ -171,35 +170,27 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">DISPONÍVEL EM BREVE!</p> 
-    
+    <p class = "apoia">Apoie este projeto</p> 
+    <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JUCBYNVLPH9ZC&source=url';"><span>PayPal </span></button> 
 <br>
-<div class = "centerthat">
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="PT50003502780002366593032" id="myInput"> 
-  <!-- The button used to copy the text -->
-  <button class="btn info"  onclick="myFunction()">Copiar número de IBAN 🏧<br />
 
-  Nome: Embuscada Associação Cultural </button>
-</div>
 <br>
 <br>
 
-<div class = "centerthat"> 
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="914061931" id="myInput2">
-  <!-- The button used to copy the text -->
-  <button class="btn info" onclick="myFunction2()">Copiar número de MBWAY 📲</button>
-</div>
+
 </div>
 <br>
 
 
-“Respostas de Malmequeres” é a primeira criação original da [embuscada], uma companhia de teatro emergente que nasceu em março de 2019. Com a chegada destes novos tempos, este espetáculo saiu dos palcos e numa adaptação chega à TEIA19. Retrata o encanto amoroso entre um homem e uma mulher, que chega a um bairro diferente e como esse encanto tenta chegar a uma conquista amorosa que é interrompida num certo momento num jogo de bem-me-quer, mal-me-quer.
+Vem conhecer a época do Renascimento com as Danças com História!
+
+Situado entre a 2.ª metade do séc XIV e os finais do séc XVI em Portugal, este período manifesta-se mais tarde adquirindo uma feição própria - Maneirismo.
+
+Entra nas cortes connosco e vê como naquela época o Renascimento foi marcado por importantes mudanças no pensamento sociocultural, reflectidos na economia, política e religião. Sabias que os nobres tinham aulas de dança? Sabias que as nossas danças acabavam por ficar conhecidas noutras cortes do mundo? 
 
 
-### Segue a [embuscada]:
-* Facebook: <a href="https://www.facebook.com/embuscadaassociacaocultural">https://www.facebook.com/embuscadaassociacaocultural</a>
-* Instagram: <a href="www.instagram.com/_embuscada_/">www.instagram.com/_embuscada_/</a>
+### Segue este projeto:
+* Facebook: <a href="https://www.facebook.com/dancascomhistoria/">https://www.facebook.com/dancascomhistoria/</a>
+* Instagram: <a href="https://instagram.com/dancascomhistoria/">https://instagram.com/dancascomhistoria/</a>
 
 

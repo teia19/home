@@ -171,7 +171,7 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">Apoie os artistas</p> 
+    <p class = "apoia">Apoie este projeto</p> 
     <button class="button" onclick="window.location.href = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JUCBYNVLPH9ZC&source=url';"><span>PayPal </span></button> 
 <br>
 
