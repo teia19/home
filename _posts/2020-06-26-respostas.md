@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/estreias/20-respostas.jpg
 navigation: True
-title: Respostas a Malmequeres
+title: Respostas de Malmequeres
 date: 2020-06-26 22:00:00
 tags: [ESTREIA // '#20]
 class: post-template
