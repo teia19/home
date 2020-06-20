@@ -218,12 +218,23 @@ quinta:
   instagram: False
   cover: False
   
-chandi:
+embuscada:
   username: embuscada
   name: [embuscada]
   url_full: False
   url: False
   bio: A [embuscada] é uma Associação Cultural, que nasceu em Lisboa em março de 2019. Tem como propósito criar projetos artísticos originais e, acima de tudo, consequentes.
+  picture: False
+  facebook: False
+  instagram: False
+  cover: False
+  
+amelia:
+  username: amelia
+  name: Amélia Bentes
+  url_full: False
+  url: False
+  bio: False
   picture: False
   facebook: False
   instagram: False
