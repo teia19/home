@@ -12,7 +12,7 @@ author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0EvI-bM2xZc?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sYs7tonCLD4?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -171,8 +171,8 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">DISPONÍVEL EM BREVE!</p> 
-    <button class="button" onclick="window.location.href = 'www.paypal.me/joaofaisca';"><span>PayPal </span></button> 
+    <p class = "apoia">APOIE ESTE PROJETO</p> 
+    <button class="button" onclick="window.location.href = 'https://www.paypal.me/joaofaisca';"><span>PayPal </span></button> 
 <br>
 <div class = "centerthat">
   <!-- The text field -->
