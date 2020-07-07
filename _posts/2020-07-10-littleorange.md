@@ -1,18 +1,18 @@
 ---
 layout: post
 current: post
-cover:  assets/images/estreias/21-plasticine.jpg
+cover:  assets/images/estreias/22-littleorange.jpg
 navigation: True
-title: Plasticine
-date: 2020-07-03 22:00:00
-tags: [TEIA19 // '#21]
+title: Little Orange
+date: 2020-07-10 22:00:00
+tags: [ESTREIA // '#22]
 class: post-template
-subclass: 'post tag-eventos-anteriores'
+subclass: 'post tag-estreia'
 author: False
 ---
 
 <!-- warning: keep the content after the ? in the link, for autoplay -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sYs7tonCLD4?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rwk15WfQSmk?rel=0&amp;autoplay=1&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -171,39 +171,18 @@ function myFunction2() {
 
 
 <div class="center">
-    <p class = "apoia">APOIE ESTE PROJETO</p> 
+    <p class = "apoia">APOIE ESTE PROJETO! (disponível em breve)</p> 
     <button class="button" onclick="window.location.href = 'https://www.paypal.me/joaofaisca';"><span>PayPal </span></button> 
-<br>
-<div class = "centerthat">
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="PT50003600329910025561474" id="myInput"> 
-  <!-- The button used to copy the text -->
-  <button class="btn info"  onclick="myFunction()">Copiar número de IBAN 🏧<br />
-
-  Nome: João Pedro Faísca Teixeira </button>
-</div>
-<br>
-<br>
-
-<div class = "centerthat"> 
-  <!-- The text field -->
-  <input type="text" class="no-outline info_numbers" value="965757273" id="myInput2">
-  <!-- The button used to copy the text -->
-  <button class="btn info" onclick="myFunction2()">Copiar número de MBWAY 📲</button>
-</div>
 </div>
 <br>
 
 
-Plasticine nasceu em 2018 e a sua sonoridade tem várias influências (jazz, funk, soul, rock, afro-beat, etc.) que se combinam numa diversidade rítmica e harmónica, com melodias contagiantes.
-As actuações da banda são pautadas pela criação de diferentes ambientes e pelas dinâmicas bem vincadas.
+A música de Little Orange pode ser definida como um Blues/Gospel experimental, que lhe permite viagens incensáveis, que se estendem do blues do Sul profundo da América, numa igreja Baptista, até ao Capim e ao rock pré-histórico.
 
-Ao vivo a formação é variável, contando habitualmente com 9 músicos. O nome, Plasticine, é um reflexo desse conceito, isto é, uma formação maleável e onde a rotatividade dos músicos é em si uma característica, permitindo que cada um dê a sua interpretação aos temas, tornando cada concerto único.
+Little Orange em palco é um verdadeiro blues-man, e a sua técnica, combina e mistura o cheiro do Mississippi, das cabanas rurais de Clarksdale e das mãos negras que colhiam o Algodão. Blues e Gospel são o sangue que corre desenfreadamente nas veias de Little Orange.
 
 
-### Segue os Plasticine:
-* Site: <a href="https://plasticine.jimdosite.com">https://plasticine.jimdosite.com</a>
-* Facebook: <a href="https://facebook.com/plasticinebandpt">https://facebook.com/plasticinebandpt</a>
-* Instagram: <a href="https://instagram.com/plasticine.band.pt">https://instagram.com/plasticine.band.pt</a>
+### Segue Little Orange:
+* Site: <a href="https://www.facebook.com/Little-Orange-110458832369591/">https://www.facebook.com/Little-Orange-110458832369591/</a>
 
 

@@ -5,9 +5,9 @@ cover:  assets/images/estreias/20-respostas.jpg
 navigation: True
 title: Respostas de Malmequeres
 date: 2020-06-26 22:00:00
-tags: [ESTREIA // '#20]
+tags: [TEIA19 // '#20]
 class: post-template
-subclass: 'post tag-estreia'
+subclass: 'post tag-eventos-anteriores'
 author: embuscada
 ---
 
