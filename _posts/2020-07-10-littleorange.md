@@ -172,7 +172,7 @@ function myFunction2() {
 
 <div class="center">
     <p class = "apoia">APOIE ESTE PROJETO! (disponível em breve)</p> 
-    <button class="button" onclick="window.location.href = 'https://www.paypal.me/joaofaisca';"><span>PayPal </span></button> 
+    
 </div>
 <br>
 
