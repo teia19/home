@@ -170,10 +170,6 @@ function myFunction2() {
 
 
 
-<div class="center">
-    <p class = "apoia">APOIE ESTE PROJETO! (disponível em breve)</p> 
-    
-</div>
 <br>
 
 
